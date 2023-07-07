@@ -1,7 +1,5 @@
 ## Authors
-* **Sanjeev Kumar Singh**
-* **Devi Sandeep Endluri**
-* **Pinaki Shaw**
+* **Jeevan Reji**
 
 # BertAbsWeightShared
 
